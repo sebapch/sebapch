@@ -20,4 +20,6 @@ TypeScript, JavaScript, React, Next.js, REST APIs, Amazon Bedrock, n8n, PostgreS
 
 ## Contact
 
+[Professional profile & CV](https://sebastianmedina.vercel.app/)
+
 [LinkedIn](https://www.linkedin.com/in/snmedina91/)
