@@ -10,13 +10,13 @@ At Action Fintech, I develop React, Next.js and TypeScript applications across D
 - Identity verification and API integrations, including Sumsub callbacks and application state.
 - Amazon Bedrock RAG interfaces, streamed responses and configurable prompts.
 - Medical training simulation interfaces connected to n8n agent workflows.
-- Regression tests for Java/Quarkus services and PostgreSQL integrations, covering API contracts, idempotency and tenant isolation.
+- Playwright-based end-to-end tests for financial onboarding, alongside Java/Quarkus regression tests for webhook reprocessing, PostgreSQL-backed ledger workflows, idempotency and tenant isolation.
 
 My recent professional contributions are primarily in private company repositories.
 
 ## Technologies
 
-TypeScript, JavaScript, React, Next.js, REST APIs, Amazon Bedrock, n8n, PostgreSQL, integration testing and GitHub Actions.
+TypeScript, JavaScript, React, Next.js, REST APIs, Amazon Bedrock, n8n, PostgreSQL, Playwright, integration testing and GitHub Actions.
 
 ## Contact
 
